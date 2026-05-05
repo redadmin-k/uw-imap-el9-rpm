@@ -1,0 +1,22 @@
+2026-05-05 15:42:04,256 - Mock Version: 6.7
+2026-05-05 15:42:04,259 - Start(bootstrap): chroot init
+2026-05-05 15:42:04,298 - Start(bootstrap): cleaning package manager metadata
+2026-05-05 15:42:04,298 - Finish(bootstrap): cleaning package manager metadata
+2026-05-05 15:42:04,502 - Finish(bootstrap): chroot init
+2026-05-05 15:42:04,503 - Start: chroot init
+2026-05-05 15:42:04,507 - Start: unpacking root cache
+2026-05-05 15:42:19,660 - Finish: unpacking root cache
+2026-05-05 15:42:19,661 - Start: cleaning package manager metadata
+2026-05-05 15:42:19,663 - Finish: cleaning package manager metadata
+2026-05-05 15:42:32,842 - Start: dnf4 update
+2026-05-05 15:43:33,615 - Finish: dnf4 update
+2026-05-05 15:46:30,651 - Finish: chroot init
+2026-05-05 15:46:30,652 - Start: build phase for uw-imap-2007f-24.el9.src.rpm
+2026-05-05 15:46:30,652 - Start: build setup for uw-imap-2007f-24.el9.src.rpm
+2026-05-05 15:52:42,109 - Finish: build setup for uw-imap-2007f-24.el9.src.rpm
+2026-05-05 15:52:42,109 - Start: rpmbuild uw-imap-2007f-24.el9.src.rpm
+2026-05-05 15:52:42,109 - Start: Outputting list of installed packages
+2026-05-05 15:52:42,297 - Finish: Outputting list of installed packages
+2026-05-05 15:54:13,425 - Finish: rpmbuild uw-imap-2007f-24.el9.src.rpm
+2026-05-05 15:54:13,430 - Finish: build phase for uw-imap-2007f-24.el9.src.rpm
+2026-05-05 15:54:13,432 - Finish: run
